@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "This is the site of Milton Nogueira, academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: " Milton Nogueira da Silva Junior"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
