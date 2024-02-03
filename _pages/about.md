@@ -37,10 +37,14 @@ I have accomplished the Educative Master at the University of Leiden, en now I a
 
 Research
 ======
-1) **Continuum Mechanics applied to biological growth**
-2) **Phase-field theory**
+1) **Geometric Continuum Mechanics applied to biological growth**
+   ======
+2) **Phase-field theory applied to biological growth**
+   ======
 3) **Biophysics**
+   ======
 4) **Computational Biology**
+   ======
 5) **Mathematical Biology**
    
 
