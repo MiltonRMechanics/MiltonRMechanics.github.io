@@ -24,7 +24,37 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 PND-CAPPES-GRANT
 ======
 
-In 2012, I was awarded with the PND-grant so as to work at CONICET in Argentin for three months. Thereby contributing to the numerical implementation of a phasefield model for fracture resulting in one publication.
+In 2012, I was awarded with the PND-CAPPES-grant so as to work at CONICET in Argentina for three months. Thereby contributing to the numerical implementation of a phasefield model for fracture resulting in one publication.
+
+PhD-CAPPES-GRANT
+======
+
+In 2009, I was awarded with the PND-CAPPES-grant so as to work at McGill University in Canada for 5 months under the supervision of Professor Eliot Fried. We established the asymptotic correspondence between a phase-field model and the classical Griffith’s theory for fracture resulting in one publication.
+
+Recent Activities
+======
+I have accomplished the Educative Master at the University of Leiden, en now I am giving classes of mathematics in the upper-secondary-school level, which corresponds to pre-university students. 
+
+Research
+======
+1) **Continuum Mechanics applied to biological growth**
+2) **Phase-field theory**
+3) **Biophysics**
+4) **Computational Biology**
+5) **Mathematical Biology**
+   
+
+
+
+Recent Publications
+======
+
+Paper 1) **A phase-field model for the hydrogen-induced growth in plant cell walls (preprint)**.
+
+Paper 2) **A continuum model within a riemannian geometric framework  for growth in plant morphogenesis capitalized on the configurational force theory(preprint)**.
+
+
+
 
 Getting started
 ======
