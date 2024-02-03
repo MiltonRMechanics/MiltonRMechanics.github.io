@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematics, Federal University of Rio de Janeiro, 2004
+* M.S. in Pure Mathematics (specialization: Functional Analysis), Federal University of Rio de Janeiro, 2005
+* Ph.D in Continuum Mechanics, Federal University of Rio de Janeiro, 2010
+* M.S. in Applied Mathematics (specialization: Mathematical Biology en Biophysics), Leiden University, 2019
+* M.S. in Leraar Voorbereidend Hoger Onderwijs (specialization: Education), Leiden University, 2023
 
 Work experience
 ======
