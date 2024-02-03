@@ -4,7 +4,8 @@ title: "CV"
 permalink: https://miltonrmechanics.github.io/cv/
 author_profile: true
 redirect_from:
-  - /resume
+https://miltonrmechanics.github.io/resume
+  
 ---
 
 {% include base_path %}
